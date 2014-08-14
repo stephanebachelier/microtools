@@ -1,0 +1,23 @@
+{
+  "name": "mintool",
+  "version": "0.0.0",
+  "description": "Yet another javascript utils library",
+  "main": "dist/mintool.js",
+  "author": {
+    "name": "Stéphane Bachelier",
+    "email": "stephane.bachelier@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/stephanebachelier/mintool.git",
+    "type": "git"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
