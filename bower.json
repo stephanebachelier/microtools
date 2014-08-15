@@ -1,6 +1,6 @@
 {
   "name": "microtools",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Yet another javascript utils library",
   "main": "dist/microtools.js",
   "author": {

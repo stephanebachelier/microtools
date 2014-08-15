@@ -1,4 +1,4 @@
-/*! microtools - v0.2.0
+/*! microtools - v0.2.1
  *  Release on: 2014-08-16
  *  Copyright (c) 2014 Stéphane Bachelier
  *  Licensed MIT */
@@ -14,14 +14,14 @@
     // like Node.
     module.exports = factory();
   } else {
-    root['mintool'] = factory();
+    root['microtools'] = factory();
   }
 }(this, function () {
 
   /* jshint unused: false */
   'use strict';
   
-  var mintool = {
+  var microtools = {
     /**
      * Pick a property of an object based on a corpus of fields
      *
@@ -65,7 +65,7 @@
   };
   
 
-  return mintool;
+  return microtools;
 
 
 }));
