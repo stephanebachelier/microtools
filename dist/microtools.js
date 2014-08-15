@@ -1,5 +1,5 @@
-/*! mintool - v0.1.0
- *  Release on: 2014-08-15
+/*! microtools - v0.2.0
+ *  Release on: 2014-08-16
  *  Copyright (c) 2014 Stéphane Bachelier
  *  Licensed MIT */
 (function (root, factory) {
