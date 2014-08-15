@@ -1,8 +1,8 @@
 {
-  "name": "mintool",
+  "name": "microtools",
   "version": "0.1.0",
   "description": "Yet another javascript utils library",
-  "main": "dist/mintool.js",
+  "main": "dist/microtools.js",
   "readmeFilename": "README.md",
   "author": {
     "name": "Stéphane Bachelier",
