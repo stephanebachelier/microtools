@@ -1,6 +1,6 @@
 {
   "name": "mintool",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Yet another javascript utils library",
   "main": "dist/mintool.js",
   "readmeFilename": "README.md",
